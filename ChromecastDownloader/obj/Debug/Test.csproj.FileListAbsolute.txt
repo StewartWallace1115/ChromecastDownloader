@@ -1,0 +1,16 @@
+C:\Users\Stewart\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Stewart\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\Stewart\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\Stewart\source\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Stewart\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Stewart\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Stewart\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\Stewart\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\Stewart\source\repos\Test\Test\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Stewart\source\repos\Test\Test\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Stewart\source\repos\Test\Test\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Stewart\source\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Stewart\source\repos\Test\Test\bin\Debug\WebDriver.dll
+C:\Users\Stewart\source\repos\Test\Test\bin\Debug\WebDriver.xml
+C:\Users\Stewart\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Stewart\source\repos\Test\Test\obj\Debug\Test.MainForm.resources
